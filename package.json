@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Yusuf-sust/ShoppingHere-backend/issues"
   },
-  "homepage": "https://github.com/Yusuf-sust/ShoppingHere-backend#readme"
+  "homepage": "https://github.com/Yusuf-sust/ShoppingHere-backend#readme",
+  "dependencies": {
+    "mongoose": "^7.1.0"
+  }
 }
