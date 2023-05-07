@@ -1,0 +1,22 @@
+{
+  "name": "shoppinghere-backend",
+  "version": "1.0.0",
+  "description": "It is a onling shopping app backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Yusuf-sust/ShoppingHere-backend.git"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "Md Yusuf Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yusuf-sust/ShoppingHere-backend/issues"
+  },
+  "homepage": "https://github.com/Yusuf-sust/ShoppingHere-backend#readme"
+}
